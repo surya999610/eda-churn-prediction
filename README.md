@@ -129,6 +129,17 @@ pip install -r requirements.txt
 jupyter notebook
 ```
 
+---
+
+## 📸 EDA Preview
+
+<img width="1743" height="737" alt="" src="https://github.com/surya999610/eda-churn-prediction/blob/main/images/ss%201.png" />
+<img width="1743" height="737" alt="" src="https://github.com/surya999610/eda-churn-prediction/blob/main/images/Screenshot%202026-03-26%20192852.png" />
+<img width="1743" height="737" alt="" src="https://github.com/surya999610/eda-churn-prediction/blob/main/images/Screenshot%202026-03-26%20192628.png" />
+<img width="1743" height="737" alt="" src="https://github.com/surya999610/eda-churn-prediction/blob/main/images/Screenshot%202026-03-26%20192325.png" />
+<img width="1743" height="737" alt="" src="https://github.com/surya999610/eda-churn-prediction/blob/main/images/Screenshot%202026-03-26%20192211.png" />
+
+
 # 💡 Business Impact
 
 This project helps companies:
