@@ -89,7 +89,7 @@ The dataset contains information about user activity including:
 
 | Metric        | Score |
 |--------------|------|
-| Accuracy     | 87%  |
+| Accuracy     | 80%  |
 | Precision    | High |
 | Recall       | Strong |
 | Model Used   | Random Forest |
